@@ -1,1 +1,2 @@
 Hello from Hit With Git.
+Some changes
